@@ -1,1 +1,1 @@
-This directory is all about git
+This directory is all about git, mimicking a collaboration
